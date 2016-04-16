@@ -1,0 +1,22 @@
+{
+  "name": "tesla",
+  "version": "1.0.0",
+  "description": "Fontes do site: News Gothic BT Roman Menu 24px News Gothic BT Light Texto 40px t�t. 30px texto Bebas Neue T�tulo do Produto 25px Moon Light T�tulo de Sustentabilidade Humanist 777 BT Light Texto Sustentabilidade 18px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhas/tesla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhas/tesla/issues"
+  },
+  "homepage": "https://github.com/lhas/tesla#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
