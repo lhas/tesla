@@ -2,8 +2,8 @@
 
 <section id="slider">
 
-    <a href="javascript:void(0);" id="seta-esq"></a>
-    <a href="javascript:void(0);" id="seta-dir"></a>
+    <a href="javascript:void(0);" id="seta-esq" class="magictime puffIn"></a>
+    <a href="javascript:void(0);" id="seta-dir" class="magictime puffIn"></a>
 
   <img src="assets/images/banner.png" class="img-responsive" alt="">
 </section> <!-- #slider -->
@@ -13,12 +13,12 @@
     <div class="row">
       <div class="col-xs-12 text-center">
 
-        <span id="aspas-esq"></span>
-        <span id="aspas-dir"></span>
+        <span id="aspas-esq" class="magictime foolishIn"></span>
+        <span id="aspas-dir" class="magictime foolishIn"></span>
 
-        <h1>Processo Reman</h1>
+        <h1 class="magictime vanishIn">Processo Reman</h1>
 
-        <div class="col-xs-10 col-xs-offset-1 col-lg-10 col-lg-offset-1">
+        <div class="magictime vanishIn texto-processo col-xs-10 col-xs-offset-1 col-lg-10 col-lg-offset-1">
         <p>As peças usadas são analisadas por pessoas especializadas. Caso não estejam em condições de remanufatura são encaminhadas para reciclagem. Todos os produtos elegíveis para remanufaturada sofrem um processo completo de desmontagem de seus componentes, avaliação técnica por equipamentos e testes de funcionalidade.</p>
         </div>
       </div> <!-- .col-xs-12 -->

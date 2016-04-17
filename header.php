@@ -15,6 +15,9 @@
   <link rel="stylesheet" href="assets/bower/bootstrap/dist/css/bootstrap.min.css">
   <script type="text/javascript" src="assets/bower/bootstrap/dist/js/bootstrap.min.js"></script>
 
+  <!-- Magic -->
+  <link rel="stylesheet" href="assets/bower/magic/magic.min.css">
+
   <!-- Application -->
   <link rel="stylesheet" href="assets/stylesheets/main.css">
 </head>
@@ -31,14 +34,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="#" id="logo" title="Tesla" class="">
+          <a href="#" id="logo" title="Tesla" class="magictime slideUpRetourn">
             <img src="assets/images/logo.png" class="img-responsive" alt="Tesla">
           </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav navbar-right magictime slideDownRetourn">
             <li><a href="#">Empresa</a></li>
             <li><a href="#">Serviços</a></li>
             <li><a href="#">Produtos</a></li>
