@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lhas/tesla#readme",
   "dependencies": {
-    "bower": "^1.7.9"
+    "bower": "^1.7.9",
+    "gulp-connect": "^3.2.2",
+    "gulp-stylus": "^2.3.1"
   }
 }

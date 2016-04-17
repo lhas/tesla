@@ -1,0 +1,41 @@
+#cabecalho
+
+  .navbar
+    border none
+    background $marrom
+
+    .navbar-collapse
+      border none
+      box-shadow none
+
+    a
+      color $branco
+      text-transform uppercase
+      font-family 'Open Sans'
+      font-weight 400
+      font-size 18px
+
+    #logo
+      margin-top 8px
+      display inline-block
+
+      img
+        height 38px
+
+    .navbar-toggle
+      border none
+
+      span
+        background-color $branco
+
+@media only screen and (min-width : 768px)
+  .nav>li>a
+    padding 15px 31px
+
+@media only screen and (min-width : 768px) and (max-width : 992px)
+  #logo
+    img
+      height 28px !important
+
+  .nav>li>a
+    padding 15px 15px
