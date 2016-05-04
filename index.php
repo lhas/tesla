@@ -13,8 +13,8 @@
     <div class="row">
       <div class="col-xs-12 text-center">
 
-        <span id="aspas-esq" class="magictime foolishIn"></span>
-        <span id="aspas-dir" class="magictime foolishIn"></span>
+        <span id="aspas-esq" class="magictime vanishIn"></span>
+        <span id="aspas-dir" class="magictime vanishIn"></span>
 
         <h1 class="magictime vanishIn">Processo Reman</h1>
 
@@ -25,6 +25,14 @@
     </div> <!-- .row -->
   </div> <!-- .container -->
 </article> <!-- #processo -->
+
+<article id="produtos">
+  <div class="container">
+    <div class="row">
+
+    </div>
+  </div>
+</article> <!-- #produtos -->
 
 <?php require_once "footer.php"; ?>
 
